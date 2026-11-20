@@ -6,7 +6,7 @@
 
 An offline [make.fun](https://make.fun/bounty/news-image-20261119) entry for **Sum up 19 November's world news in one image**.
 
-The poster was drawn offline as a compact illustrated news page with 25 briefs across world regions. Its three lead stories cover the Shenzhen meeting of Trump, Xi, and Putin, Anthropic's record IPO, and the ICJ ruling on Myanmar and the Rohingya.
+The poster was drawn offline as an illustrated news page with 12 selected stories across world regions. Its three lead stories cover the Shenzhen meeting of Trump, Xi, and Putin, Anthropic's record IPO, and the ICJ ruling on Myanmar and the Rohingya. Larger headlines give the remaining stories room to explain events in climate, security, sport, culture, technology and weather.
 
 The illustrations are geometric and symbolic; no news photographs, logos, official art, or recognizable political likenesses are used. Reporting facts are listed in [sources.md](sources.md).
 
