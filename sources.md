@@ -14,3 +14,12 @@ The image selects events and announcements dated 19 November. The EU cyberattack
 10. GTA VI: [Publisher's launch date](https://ir.take2games.com/node/32311/pdf), [Axios on Thursday's launch](https://www.axios.com/2026/11/19/gta-6-deal-perks-bonus-army).
 11. Greenland: [AP on Denmark's approval of the security deal](https://apnews.com/article/a392abbba5c2f1bccbbb372e3d38769d).
 12. EU cyberattack: [AP on Thursday's disclosure](https://apnews.com/article/79705095e8141cd650196dbff1cf3c70).
+13. Crimean Bridge: [BBC World digest, third attack reported on 19 November](https://opencurrentdigest.com/?source=BBC+%E2%80%94+World). The image attributes the claim to Russia.
+14. Japan and India: [AP on Thursday's defence talks](https://apnews.com/article/5b29b80bebf7a9b61422d19e9b3eed7f).
+15. Japan and Russia: [AP on Takaichi's Thursday announcement](https://apnews.com/article/bdc0faac8244ea5ca145380636927f9b).
+16. Bangladesh: [BSS on seven deaths with measles symptoms](https://www.bssnews.net/news/447778). These are suspected cases, not stated as confirmed measles deaths.
+17. Minnesota: [MPR News, 19 November](https://www.mprnews.org/story/2026/11/19/measles-cases-in-minnesota-hit-36year-high-as-us-loses-elimination-status).
+18. Australian unemployment: [ABS release, 19 November](https://www.abs.gov.au/media-centre/media-releases/unemployment-rate-rises-49). The release covers October data.
+19. Kenya minerals: [Kenya News Agency, 19 November](https://www.kenyanews.go.ke/kenya-awards-three-strategic-mineral-projects-to-investors/).
+20. Russian aircraft: [AP on Thursday's flights](https://apnews.com/article/7e52cafb91547b329c41d9488f1ecd8c).
+21. Venezuelan protections: [AP on Thursday's appeals court ruling](https://apnews.com/article/4c169e7c4d6e80145f39863e17f9f305).
