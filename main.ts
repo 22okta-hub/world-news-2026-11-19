@@ -2,7 +2,7 @@ import { copyFileSync, mkdirSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
-const source = new URL('./news.jpg', import.meta.url);
+const source = new URL('./news.png', import.meta.url);
 const destination = join(outDir, 'entry.png');
 const maxImageBytes = 1_048_576;
 mkdirSync(outDir, { recursive: true });
